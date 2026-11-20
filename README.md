@@ -1,9 +1,9 @@
 # Scraping demo — books.toscrape.com → CSV
 
-A small, real scraper 李浩 can link from Upwork proposals for
-scraping / data-extraction jobs. It is a portfolio starter, not client
-work — review it before linking, and swap in the client's own target
-site when a job lands.
+A small, real Python scraper I link from my Upwork proposals
+for scraping / data-extraction jobs. It's a portfolio demo,
+not client work — the same pattern (paginate, parse, clean
+CSV output) adapts to your site.
 
 ## What it proves
 
